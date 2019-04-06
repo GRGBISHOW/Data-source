@@ -1,0 +1,6 @@
+framework module Pods_DataSourceUITests {
+  umbrella header "Pods-DataSourceUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
